@@ -1,0 +1,38 @@
+<annotation>
+	<folder>firemo</folder>
+	<filename>images530.jpg</filename>
+	<path>C:\Users\mohte\Downloads\OMar images\firemo\images530.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>1</ymin>
+			<xmax>122</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>222</ymin>
+			<xmax>147</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

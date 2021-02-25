@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire</folder>
+	<filename>images606.jpg</filename>
+	<path>C:\Users\ramia\Downloads\fire\fire\images606.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>18</ymin>
+			<xmax>331</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

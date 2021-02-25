@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire_images</folder>
+	<filename>475967-01-02-1585630240.jpg</filename>
+	<path>/Users/23oabdallah/Downloads/FIRE_DATASET/fire_images/475967-01-02-1585630240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2662</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1376</xmin>
+			<ymin>729</ymin>
+			<xmax>1499</xmax>
+			<ymax>1083</ymax>
+		</bndbox>
+	</object>
+</annotation>
